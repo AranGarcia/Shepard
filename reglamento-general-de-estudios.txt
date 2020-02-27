@@ -50,6 +50,7 @@ II. Licenciatura, en el nivel superior, y
 III. Especialidad, Maestría y Doctorado en el nivel posgrado.
 En las ramas de ingeniería y ciencias físico matemáticas; ciencias médico biológicas; ciencias sociales y administrativas, y las interdisciplinarias que resulten de ellas.
 Los títulos y grados que se expidan a los egresados de los programas académicos, corresponderán a las denominaciones con que éstos se encuentren registrados en la Dirección General de Profesiones de la Secretaría de Educación Pública.
+
 Artículo 5. Son considerados servicios educativos complementarios, los estudios de capacitación, actualización técnica y profesional, formación empresarial, educación continua o formación de capacidades a lo largo de la vida, y de lenguas extranjeras, entre otros:
 I. Cursos;
 II. Talleres;
