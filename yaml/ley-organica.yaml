@@ -1,0 +1,141 @@
+items:
+- content:
+    items:
+    - enum: '1'
+      text: El Instituto Politécnico Nacional Es La Institución Educativa Del Estado
+        Creada Para Consolidar, A Través De La Educación, La Independencia Económica,
+        Científica, Tecnológica, Cultural Y Política Para Alcanzar El Progreso Social
+        De La Nación, De Acuerdo Con Los Objetivos Históricos De La Revolución Mexicana,
+        Contenidos En La Constitución Política De Los Estados Unidos Mexicanos.
+    - enum: '2'
+      text: El Instituto Politécnico Nacional Es Un Órgano Desconcentrado De La Secretaría
+        De Educación Pública, Cuya Orientación General Corresponde Al Estado; Con
+        Domicilio En El Distrito Federal Y Representaciones En Las Entidades De La
+        República Donde Funcionen Escuelas, Centros Y Unidades De Enseñanza Y De Investigación
+        Que Dependan Del Mismo.
+    - enum: '3'
+      text: 'Son Finalidades Del Instituto Politécnico Nacional:'
+    - enum: '4'
+      text: 'Para El Cumplimiento De Sus Finalidades, El Instituto Politécnico Nacional
+        Tendrá Las Siguientes Atribuciones:'
+    - enum: '5'
+      text: La Educación Que Imparta El Instituto Politécnico Nacional Será Gratuita.
+    level: ARTICULO
+  enum: I
+  text: Naturaleza, Finalidades Y Atribuciones
+- content:
+    items:
+    - enum: '6'
+      text: 'El Patrimonio Del Instituto Politécnico Nacional Estará Constituido Por:'
+    level: ARTICULO
+  enum: II
+  text: Del Patrimonio
+- content:
+    items:
+    - enum: '7'
+      text: El Instituto Politécnico Nacional Ejercerá Las Atribuciones Que Les Competen
+        Por Medio De Sus Autoridades Y De Los Órganos Consultivos Y De Apoyo, De Acuerdo
+        Con Lo Previsto Por Esta Ley Y Demás Ordenamientos Aplicables.
+    - enum: '8'
+      text: 'Son Autoridades Del Instituto:'
+    - enum: '9'
+      text: 'Son Órganos Consultivos Del Instituto:'
+    - enum: '10'
+      text: 'Son Órganos De Apoyo Dependientes Del Instituto:'
+    - enum: '11'
+      text: 'Son Organismos Auxiliares Del Instituto:'
+    - enum: '12'
+      text: El Director General Será Nombrado Por El Presidente De La República; Tendrá
+        La Representación Legal Del Instituto Politécnico Nacional, Durará En Su Cargo
+        Tres Años Y Podrá Ser Designado, Por Una Sola Vez, Para Otro Periodo.
+    - enum: '13'
+      text: 'Para Ser Director General Se Requiere:'
+    - enum: '14'
+      text: 'Son Facultades Y Obligaciones Del Director General:'
+    - enum: '15'
+      text: El Secretario General Será Nombrado Por El Secretario De Educación Pública,
+        A Propuesta Del Director General Del Instituto Politécnico Nacional Y Deberá
+        Reunir Los Requisitos Señalados En El Artículo 13 De Esta Ley.
+    - enum: '16'
+      text: 'Son Facultades Y Obligaciones Del Secretario General:'
+    - enum: '17'
+      text: El Instituto Contará Con Secretarías En Las Áreas Académica, Técnica Y
+        Administrativa. Las Secretarías De Area Se Integrarán Con Las Direcciones
+        De Coordinación Que Se Establecerán Por Funciones Específicas O Afines De
+        Acuerdo Con La Estructura Orgánica Del Instituto.
+    - enum: '18'
+      text: 'Son Facultades Y Obligaciones De Los Secretarios De Area:'
+    - enum: '19'
+      text: 'Son Facultades Y Obligaciones De Los Directores De Coordinación:'
+    - enum: '20'
+      text: El Instituto Politécnico Nacional Realizará Sus Funciones Académicas A
+        Través De Sus Escuelas, Centros Y Unidades De Enseñanza Y De Investigación
+        Que Serán Coordinadas Por Las Secretarías De Area Y Direcciones De Coordinación,
+        De Acuerdo Con Lo Previsto En Esta Ley Y Demás Ordenamientos Aplicables.
+    - enum: '21'
+      text: Los Directores De Escuelas, Centros Y Unidades De Enseñanza Y De Investigación,
+        Deberán Ser Mexicanos Y Reunir Además Los Requisitos Que Establezcan Las Normas
+        Internas Que Rijan En El Instituto. Durarán En Su Cargo Tres Años Y Podrán
+        Ser Designados, Por Una Sola Vez, Para Otro Período.
+    - enum: '22'
+      text: Los Directores Adjuntos Y Subdirectores De Escuelas, Centros Y Unidades
+        De Enseñanza Y De Investigación, Serán Designados Por El Director General
+        A Propuesta Del Consejo Técnico Consultivo Escolar Correspondiente.
+    - enum: '23'
+      text: El Abogado General Representará Al Instituto Politécnico Nacional Ante
+        Toda Clase De Autoridades Y Particulares, Con Las Facultades Que Le Delegue
+        El Director General, Sin Perjuicio De Que Este Conserve El Ejercicio Directo
+        De Las Mismas. El Abogado General Será Nombrado Por El Director General.
+    - enum: '24'
+      text: 'Los Consejos Técnicos Consultivos Escolares Elegirán En Sus Respectivos
+        Planteles, De Entre Los Profesores De Mayor Antigüedad, A Los Decanos De Cada
+        Una De Las Escuelas, Centros Y Unidades De Enseñanza Y De Investigación Del
+        Instituto. El Director General Designará De Entre Los Decanos, Al Presidente
+        Del Decanato, Quien Tendrá A Su Cargo Las Siguientes Funciones:'
+    - enum: '25'
+      text: El Consejo General Consultivo Estará Integrado Por;
+    - enum: '26'
+      text: 'Compete Al Consejo General Consultivo:'
+    - enum: '27'
+      text: 'Los Consejos Técnicos Consultivos De Las Escuelas, Centros Y Unidades
+        De Enseñanza Superior Estarán Integrados Por:'
+    - enum: '28'
+      text: 'Los Consejos Técnicos Consultivos De Las Escuelas, Centros Y Unidades
+        De Enseñanza Media Superior Estarán Integrados Por:'
+    - enum: '29'
+      text: 'Compete A Los Consejos Técnicos Consultivos Escolares:'
+    - enum: '30'
+      text: El Director General, Con Acuerdo Del Consejo General Consultivo Establecerá
+        Las Bases Permanentes En El Reglamento Interno Del Instituto Politécnico Nacional
+        Para La Acreditación De Los Representantes Profesores Y Representantes Alumnos
+        Ante El Propio Consejo General Y Los Consejos Técnicos Consultivos Escolares.
+    - enum: '31'
+      text: El Consejo General Consultivo Y Los Consejos Técnicos Consultivos Escolares
+        Celebrarán Sesiones Ordinarias, Por Lo Menos Una Vez Al Mes Y, Extraordinarias
+        Cuando Sus Respectivos Presidentes O La Tercera Parte De Sus Miembros Lo Consideren
+        Necesario. Sus Decisiones Se Tomarán Por Mayoría De Votos Y El Quórum Se Integrará
+        Con La Asistencia De La Mitad Más Uno De Sus Miembros, En Caso De Empate El
+        Presidente Tendrá Voto De Calidad.
+    - enum: '32'
+      text: El Director De La Estación De Televisión Del Instituto Politécnico Nacional
+        Será Designado Por El Secretario De Educación Pública, A Propuesta Del Director
+        General Del Instituto Politécnico Nacional, La Función Sustancial De Dicho
+        Canal, Será La De Difundir Y Defender La Cultura Nacional, La Historia, La
+        Tradición, Las Costumbres Y Nuestra Idiosincrasia, Respecto Del Extranjero.
+    level: ARTICULO
+  enum: III
+  text: Estructura Orgánica Y Funcional
+- content:
+    items:
+    - enum: '33'
+      text: El Personal Del Instituto Politécnico Nacional Queda Sujeto Al Régimen
+        De La Ley Federal De Los Trabajadores Al Servicio Del Estado, Reglamentaria
+        Del Apartado B) Del Artículo 123 Constitucional Y Al De La Ley Del Instituto
+        De Seguridad Y Servicios Sociales De Los Trabajadores Del Estado.
+    - enum: '34'
+      text: Las Asociaciones De Alumnos Se Organizarán En La Forma Que Los Mismos
+        Determinen Y Serán Independientes De Las Autoridades Y Órganos Del Instituto.
+    level: ARTICULO
+  enum: IV
+  text: Disposiciones Generales
+level: CAPITULO
