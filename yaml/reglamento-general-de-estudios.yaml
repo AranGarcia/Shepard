@@ -1,0 +1,366 @@
+items:
+- content:
+    items:
+    - enum: '1'
+      text: Las Disposiciones Del Presente Reglamento Son De Observancia General Y
+        Obligatoria En El Instituto Politécnico Nacional.
+    - enum: '2'
+      text: Este Ordenamiento Tiene Por Objeto Establecer Las Condiciones Que Regulan
+        El Ingreso, La Trayectoria Escolar, La Permanencia Y El Egreso De Alumnos
+        Que Cursen Algún Programa Académico De Los Niveles Medio Superior, Superior
+        Y Posgrado, Así Como De Los Usuarios De Todos Aquellos Programas Que Se Ofrezcan
+        Para Complementar Su Formación Y Con Fines De Capacitación, Actualización
+        Técnica Y Profesional, Formación Empresarial, Educación Continua, Y Enseñanza
+        De Lenguas Extranjeras En Las Unidades Académicas, Unidades De Apoyo A La
+        Innovación Educativa, Unidades De Apoyo A La Investigación Y Al Fomento Y
+        Desarrollo Empresarial Y Demás Áreas Referidas En El Artículo 2 Del Reglamento
+        Orgánico, En Las Modalidades Educativas Que Ofrece El Instituto Politécnico
+        Nacional.
+    - enum: '3'
+      text: 'Para Efectos Del Presente Reglamento Se Entenderá Por:'
+    - enum: '4'
+      text: 'El Instituto Ofrece Estudios De:'
+    - enum: '5'
+      text: 'Son Considerados Servicios Educativos Complementarios, Los Estudios De
+        Capacitación, Actualización Técnica Y Profesional, Formación Empresarial,
+        Educación Continua O Formación De Capacidades A Lo Largo De La Vida, Y De
+        Lenguas Extranjeras, Entre Otros:'
+    level: ARTICULO
+  enum: Primero
+  text: Disposiciones Generales
+- content:
+    items:
+    - enum: '6'
+      text: 'Los Requisitos Para Ingresar Como Alumno Al Instituto Son:'
+    - enum: '7'
+      text: Para Ingresar Como Usuario De Servicios Educativos Complementarios, Se
+        Deberá Cumplir Con Los Requisitos De Admisión Señalados En El Programa Correspondiente
+        Y Que, En Su Caso, Serán Publicados En La Convocatoria.
+    - enum: '8'
+      text: El Aspirante Que Cumpla Con Todos Los Requisitos De Ingreso Y Realice
+        En Tiempo Y Forma Los Trámites De Inscripción, Adquirirá La Calidad De Alumno
+        Con Los Derechos Y Obligaciones Que Establezcan Las Disposiciones Normativas
+        Aplicables.
+    - enum: '9'
+      text: El Carácter De Alumno Se Acredita Con El Número De Boleta Y Credencial
+        Vigente Expedida Por La Dirección De Coordinación Competente.
+    - enum: '10'
+      text: 'El Ingreso Mediante El Proceso De Admisión Al Instituto Permite Al Alumno:'
+    - enum: '11'
+      text: 'El Alumno, Al Iniciar Su Trayectoria Escolar, Recibirá Por Parte De La
+        Unidad Académica Donde Se Encuentra Inscrito, La Información Relativa Al Programa
+        Académico Que Cursará: Mapa Curricular; Criterios De Evaluación, Acreditación
+        Y Egreso; Prácticas Escolares Y Profesionales, Estancias De Investigación
+        Y Procesos De Movilidad, Entre Otros. También Recibirá Información Del Servicio
+        Social, Titulación U Obtención Del Grado, En Su Caso, Así Como La Normatividad
+        Aplicable.'
+    - enum: '12'
+      text: 'El Alumno O Egresado De Nivel Superior Del Instituto Podrá Cursar Otro
+        Programa Académico Del Mismo Nivel De Manera Simultánea O Subsecuente, Cuando:'
+    - enum: '13'
+      text: Si El Aspirante No Concluye El Proceso De Inscripción Correspondiente
+        Transcurridos Los Plazos Y Fechas, O Incumple Con Las Condiciones Establecidas
+        En La Convocatoria Para Su Admisión, Se Cancelarán Los Trámites Realizados
+        Sin Que Haya Responsabilidad Alguna Para El Instituto.
+    - enum: '14'
+      text: La Inscripción Será Nula De Pleno Derecho Cuando El Aspirante Entregue
+        Documentación Falsa O Alterada, Haciéndose Del Conocimiento De La Oficina
+        Del Abogado General Del Instituto Para Que En El Ámbito De Su Competencia
+        Ejerza Las Acciones Legales Conducentes. En Este Supuesto, El Aspirante No
+        Podrá Gestionar Nueva Inscripción A Programa Académico.
+    level: ARTICULO
+  enum: Segundo
+  text: Del Ingreso
+- content:
+    items:
+    - enum: '15'
+      text: La Equivalencia Tiene Por Objeto Validar Y Acreditar Estudios Realizados
+        Tanto En El Instituto Como En Otras Instituciones Del Sistema Educativo Nacional
+        Para Que El Interesado Pueda Continuar Y Concluir Sus Estudios Dentro Del
+        Instituto, En El Nivel Educativo Correspondiente.
+    - enum: '16'
+      text: La Revalidación Permitirá Al Interesado Acreditar Estudios Realizados
+        Fuera Del Sistema Educativo Nacional, Para Continuar Y Concluir Sus Estudios
+        En El Instituto.
+    - enum: '17'
+      text: Las Direcciones De Coordinación Competentes Dictaminarán Lo Procedente
+        En Los Casos De Equivalencia O Revalidación; Asimismo, Podrán Determinar Los
+        Casos Que Requieran La Evaluación De Saberes Previamente Adquiridos.
+    - enum: '18'
+      text: La Equivalencia O La Revalidación Podrán Otorgarse Respecto De Unidades
+        De Aprendizaje O De Un Plan De Estudio Cuya Acreditación No Exceda Los Cinco
+        Años Inmediatos Anteriores A La Solicitud. El Dictamen Tendrá Una Vigencia
+        De Doce Meses.
+    level: ARTICULO
+  enum: Tercero
+  text: De La Equivalencia O La Revalidación De Estudios
+- content:
+    items:
+    - enum: '19'
+      text: 'Para Impartir Sus Programas Académicos Y De Servicios Educativos Complementarios
+        El Instituto Podrá Adoptar Alguna De Las Siguientes Modalidades Educativas:
+        Escolarizada, No Escolarizada Y Mixta.'
+    - enum: '20'
+      text: La Modalidad Escolarizada Es La Que Se Desarrolla En Aulas, Talleres,
+        Laboratorios Y Otros Ambientes De Aprendizaje, En Horarios Y Periodos Determinados.
+    - enum: '21'
+      text: La Modalidad No Escolarizada Es La Que Se Desarrolla Fuera De Las Aulas,
+        Talleres, Laboratorios Y No Necesariamente Comprende Horarios Determinados.
+    - enum: '22'
+      text: La Modalidad Mixta Es La Combinación De Modalidades Educativas De Acuerdo
+        Con El Diseño Del Programa Académico En Particular.
+    - enum: '23'
+      text: Para Las Modalidades Educativas Diferentes A La Escolarizada, El Programa
+        Académico Establecerá, En Su Caso, Las Disposiciones Para La Realización De
+        Prácticas, Estancias, Prestación De Servicio Social, Titulación, Trabajo En
+        Red, Examen De Grado Y Cualquier Otra Actividad Que Forme Parte Del Plan De
+        Estudio Correspondiente.
+    level: ARTICULO
+  enum: Cuarto
+  text: De Las Modalidades Educativas
+- content:
+    items:
+    - enum: '24'
+      text: 'Un Programa Académico De Los Niveles Medio Superior, Superior O Posgrado
+        Conducirá A La Obtención De Los Documentos Probatorios Que Serán:'
+    - enum: '25'
+      text: Los Programas De Los Servicios Educativos Complementarios, Independientemente
+        De La Modalidad Educativa Que Adopten, Conducirán Previa Acreditación, A La
+        Obtención De Constancia O Diploma Con El Valor Curricular Que Corresponda.
+    - enum: '26'
+      text: 'Los Programas Académicos De Cualquier Nivel Educativo Se Conforman Por:'
+    - enum: '27'
+      text: Los Programas Académicos En Red Establecerán, Adicionalmente A Lo Considerado
+        En El Artículo Inmediato Anterior, Las Disposiciones De Movilidad Académica,
+        Mecanismos De Evaluación, De Acreditación Y De Atención A Los Alumnos, A Través
+        Del Comité Académico En Red Para Los Niveles Medio Superior Y Superior, Así
+        Como Del Colegio De Profesores Para Posgrado Y Los Incluidos En La Convocatoria
+        Correspondiente.
+    - enum: '28'
+      text: 'Los Programas De Los Servicios Educativos Complementarios Se Conforman
+        Por:'
+    - enum: '29'
+      text: En Los Niveles Medio Superior, Superior Y Posgrado El Valor Curricular
+        De Los Programas De Los Servicios Educativos Complementarios Podrá Ser Reconocido
+        En Los Programas Académicos, Previo Acuerdo De La Secretaría Académica Y/O
+        De La Secretaría De Investigación Y Posgrado, Según Corresponda.
+    - enum: '30'
+      text: 'El Plan De Estudio De Los Programas Académicos Contendrá El Enfoque Educativo
+        Y Los Mecanismos De Evaluación Del Mismo Y Deberá:'
+    - enum: '31'
+      text: 'Para Efectos Del Presente Reglamento Los Planes De Estudios Deberán Incluir:'
+    - enum: '32'
+      text: 'Cuando Se Actualice O Rediseñe Un Plan De Estudio De Cualquier Nivel
+        Educativo:'
+    - enum: '33'
+      text: El Programa De Estudios De Cada Unidad De Aprendizaje, Deberá Establecer
+        Los Datos De Identificación, Modalidad Educativa, El Perfil Del Personal Académico,
+        Saberes A Desarrollar, Contenidos, Estrategias Didácticas, Mecanismos De Evaluación
+        Del Aprendizaje Y De Los Saberes Previamente Adquiridos, Fuentes De Información
+        Y Los Demás Elementos Que Establezca La Normatividad Aplicable.
+    level: ARTICULO
+  enum: Quinto
+  text: De Los Programas Académicos
+- content:
+    items:
+    - enum: '34'
+      text: 'Las Unidades De Aprendizaje Contenidas En El Plan De Estudio, Se Clasifican
+        En:'
+    - enum: '35'
+      text: Las Unidades De Aprendizaje Deberán Cursarse Y Acreditarse Conforme Lo
+        Establezca El Plan De Estudio.
+    - enum: '36'
+      text: 'Para Cursar Un Programa Académico En El Instituto, En Cualquier Modalidad
+        Educativa, El Alumno Deberá:'
+    - enum: '37'
+      text: Es Alumno En Situación Escolar Regular Quien Tiene Acreditadas Todas Las
+        Unidades De Aprendizaje En Las Que Se Ha Inscrito Durante Su Trayectoria Escolar.
+    - enum: '38'
+      text: El Alumno Podrá Cursar Unidades De Aprendizaje En Modalidad Diferente
+        A La Que Se Encuentra Inscrito Siempre Y Cuando Cumpla Con Los Requisitos
+        Y Procedimientos Establecidos Por La Dirección De Coordinación Competente,
+        Su Oferta Esté Vigente, Sujeta A Cupo Y Deberá Incluir La Equivalencia Correspondiente.
+    - enum: '39'
+      text: El Grado De Avance De Un Alumno En El Plan De Estudio Se Determinará Por
+        El Número De Créditos Obtenidos Y Acumulados Al Último Periodo Escolar En
+        El Que Estuvo Inscrito.
+    - enum: '40'
+      text: En Los Planes De Estudio De Los Niveles Medio Superior Y Superior Las
+        Calificaciones De Las Unidades De Aprendizaje Se Expresarán Con Números Enteros
+        Y En Una Escala De Cero A Diez, Considerando Al Seis Como Calificación Mínima
+        Aprobatoria.
+    - enum: '41'
+      text: Al Inicio De Cada Unidad De Aprendizaje El Personal Académico Deberá Hacer
+        Del Conocimiento Del Alumno El Programa De Estudio Respectivo.
+    - enum: '42'
+      text: En Cada Unidad De Aprendizaje Se Evaluarán Los Saberes Adquiridos Por
+        El Alumno, En Los Términos Señalados En El Programa De Estudio Que Corresponda.
+    - enum: '43'
+      text: La Acreditación De Una Unidad De Aprendizaje Se Obtiene Cuando El Alumno
+        Cumpla Con Los Requisitos Establecidos En El Proceso De Evaluación Del Programa
+        De Estudios Y Obtenga Una Calificación Aprobatoria De Su Desempeño.
+    - enum: '44'
+      text: La Acreditación De Cada Unidad De Aprendizaje, Mediante La Evaluación
+        Ordinaria, Resultará De Las Evaluaciones Que El Alumno Deberá Presentar A
+        Lo Largo Del Periodo Escolar, Definidas En El Programa De Estudio Correspondiente.
+    - enum: '45'
+      text: El Alumno De Los Niveles Medio Superior O Superior, Tendrá Derecho A Acreditar
+        Las Unidades De Aprendizaje Mediante La Evaluación Extraordinaria, Que Deberá
+        Estipularse En El Programa De Estudio, Y Estar Señalado En El Calendario Académico.
+    - enum: '46'
+      text: Cuando Por Causa Justificada El Alumno No Pueda Presentar Cualquier Evaluación
+        En Las Fechas Establecidas Para Realizarlas, Podrá Solicitar Por Escrito Al
+        Titular De La Unidad Académica Su Aplicación Posterior; Dicha Solicitud Deberá
+        Presentarse En Un Plazo No Mayor A Cinco Días Hábiles Contados A Partir De
+        La Fecha Original De La Evaluación.
+    - enum: '47'
+      text: La Evaluación De Saberes Previamente Adquiridos Permitirá Acreditar Unidades
+        De Aprendizaje Sin Haberlas Cursado. Su Aplicación Se Sujetará A Lo Dispuesto
+        En El Programa De Estudio.
+    - enum: '48'
+      text: 'El Alumno De Los Niveles Medio Superior O Superior Que No Logre Acreditar
+        Una O Más De Las Unidades De Aprendizaje En Las Que Se Haya Inscrito Podrá:'
+    - enum: '49'
+      text: El Alumno De Los Niveles Medio Superior O Superior Podrá Cursar Un Programa
+        Académico En Un Periodo De Tiempo Mínimo A Un Máximo, Según Lo Establecido
+        En El Plan De Estudio.
+    - enum: '50'
+      text: El Personal Académico Responsable De La Unidad De Aprendizaje Deberá Registrar
+        En El Sistema De Administración Escolar Las Calificaciones Obtenidas, Dentro
+        De Los Tres Días Hábiles Posteriores A La Fecha De Aplicación De La Evaluación.
+    - enum: '51'
+      text: El Alumno Deberá Ser Informado Por La Unidad Académica, De Los Resultados
+        Obtenidos En Las Evaluaciones Que Presentó, De Conformidad Con La Normatividad
+        Aplicable.
+    - enum: '52'
+      text: El Alumno En Los Niveles Medio Superior O Superior, Para Reinscribirse
+        Al Siguiente Periodo Escolar, Deberá Considerar El Resultado De Dividir El
+        Total De Los Créditos Faltantes Para Concluir Su Plan De Estudio, Entre Los
+        Periodos Escolares Disponibles Para Completarlo.
+    - enum: '53'
+      text: Las Direcciones De Las Unidades Académicas, Previa Autorización De La
+        Dirección D E Coordinación Competente, Podrán Establecer Acciones Para La
+        Recuperación Académica De Los Alumnos.
+    - enum: '54'
+      text: El Alumno Podrá Solicitar La Baja De Unidades De Aprendizaje En Las Que
+        Se Encuentre Inscrito En El Periodo Escolar, Siempre Y Cuando Mantenga La
+        Carga Mínima De Créditos Establecidos En Su Plan De Estudio.
+    - enum: '55'
+      text: 'El Alumno Podrá Solicitar Por Escrito La Baja Temporal Hasta Por Dos
+        Periodos Escolares Del Programa Académico En El Que Se Encuentre Inscrito:'
+    - enum: '56'
+      text: El Alumno Podrá Solicitar Por Escrito, Por Una Sola Vez, Por Nivel De
+        Estudios, El Cambio De Programa Académico Y/O Modalidad Educativa Y/O De Unidad
+        Académica. Para Ello Deberá Cumplir Con Los Requisitos Que Para Tal Efecto
+        Emitan Las Secretarías Académica O De Investigación Y Posgrado, Según Sea
+        El Caso.
+    - enum: '57'
+      text: 'El Alumno De Los Niveles Medio Superior O Superior Causará Baja Del Programa
+        Académico En La Modalidad En La Que Se Encuentre Inscrito Cuando:'
+    - enum: '58'
+      text: 'El Alumno De Posgrado Causará Baja Del Programa Académico Cuando:'
+    - enum: '59'
+      text: El Alumno De Los Niveles Medio Superior, Superior O Posgrado, Causará
+        Baja Definitiva De La Modalidad Educativa O Del Instituto, Cuando Lo Solicite
+        Por Escrito Al Titular De La Unidad Académica O Por Resolución Fundada Y Motivada
+        Por El Consejo General Consultivo, Consejo Técnico Consultivo Escolar O Colegio
+        Académico De Posgrado, Según Corresponda.
+    level: ARTICULO
+  enum: Sexto
+  text: De La Trayectoria Escolar
+- content:
+    items:
+    - enum: '61'
+      text: El Alumno En Situación Escolar Regular, Podrá Participar En El Programa
+        De Movilidad Académica Institucional A Través De Las Convocatorias Correspondientes
+        Para Cursar Unidades De Aprendizaje, Desarrollar Actividades De Investigación
+        O Complementarias En Una Institución Educativa, De Investigación O Del Sector
+        Productivo, Nacional O Extranjera, De Conformidad Con La Normatividad Aplicable.
+    - enum: '62'
+      text: El Alumno Para Efectos De Movilidad Académica En Los Niveles Medio Superior
+        Y Superior, Podrá Participar En Las Convocatorias Que Se Emitan Y Ser Elegible
+        En Función De Que Satisfaga Los Requerimientos En Ellas Contenidos; La Unidad
+        Académica A La Que Pertenece Deberá Proponerlo Y Se Requerirá La Aceptación
+        De La Institución De Destino.
+    - enum: '63'
+      text: El Alumno Visitante, Para Ser Recibido En Un Programa De Movilidad Académica
+        Deberá Haber Sido Postulado Por Su Institución, Cumpliéndose En Su Caso, Las
+        Condiciones Del Convenio Correspondiente, Ser Aceptado Por El Instituto Y
+        Cumplir Con La Normatividad Institucional. El Alumno Visitante Adquirirá Derechos
+        Y Obligaciones, De Conformidad Con La Normatividad Aplicable.
+    - enum: '64'
+      text: El Alumno En Movilidad Podrá Obtener Otros Títulos, Diplomas De Grado
+        O Constancias, Derivado De Su Participación En El Instituto Y En Otras Instituciones
+        Educativas Nacionales O Extranjeras, De Acuerdo Con Los Convenios Celebrados
+        Para Tal Efecto.
+    - enum: '65'
+      text: El Alumno Visitante Podrá Obtener Títulos, Diplomas De Grado O Constancias,
+        Derivado De Su Participación En El Instituto, De Acuerdo Con Los Convenios
+        Celebrados Para Tal Efecto.
+    level: ARTICULO
+  enum: Séptimo
+  text: De La Movilidad Académica
+- content:
+    items:
+    - enum: '66'
+      text: 'El Instituto, A Través De La Dirección De Coordinación Competente, Expedirá
+        Conforme A La Nor- Matividad Aplicable Y A Solicitud Del Alumno Los Siguientes
+        Documentos: Constancias, Certificados De Estudio, Títulos Profesionales O
+        Diplomas De Grado Académicos.'
+    - enum: '67'
+      text: Las Constancias O Diplomas De Los Servicios Educativos Complementarios
+        Se Emitirán De Acuerdo A Los Lineamientos Que Establezca La Secretaría Correspondiente.
+    - enum: '68'
+      text: A Solicitud Del Alumno, La Dirección De Coordinación Competente Expedirá
+        La Carta De Pasante.
+    - enum: '69'
+      text: Para Los Efectos De Titulación Profesional, Obtención De Grado Académico
+        O Certificación De Estudios De Los Programas Académicos No Vigentes, El Instituto
+        Otorgará Plena Validez A Los Estudios Acreditados Y, Cuando Proceda, Emitirá
+        El O Los Documentos A Que Haya Lugar.
+    - enum: '70'
+      text: El Registro De La Trayectoria Escolar Del Alumno Se Conformará Con Las
+        Calificaciones Obtenidas Y Consignadas En Su Expediente Académico. Este Expediente
+        Deberá Estar Validado Por La Dirección De Coordinación Competente Y Resguardado
+        Por La Unidad Académica.
+    - enum: '71'
+      text: Para Obtener El Título Profesional O Diploma De Grado Académico El Alumno
+        Se Sujetará A Lo Dispuesto En El Programa Académico Correspondiente Y En La
+        Normatividad Aplicable.
+    level: ARTICULO
+  enum: Octavo
+  text: Del Egreso Y La Certificación
+- content:
+    items:
+    - enum: '72'
+      text: El Incumplimiento O Contravención A Las Disposiciones Del Presente Reglamento
+        Dará Lugar A La Aplicación De Las Sanciones Previstas En El Reglamento Interno
+        Y Demás Normatividad Aplicable.
+    - enum: '73'
+      text: El Alumno Que Tenga Alguna Inconformidad Sobre Su Situación Escolar Podrá
+        Presentarla Por Escrito Ante El Titular De La Unidad Académica, El Que Deberá
+        Dar Contestación Por Escrito En Un Plazo Que No Excederá De Quince Días Hábiles
+        Contados A Partir De La Recepción De La Misma.
+    - enum: '74'
+      text: El Alumno Que Vea Afectada Su Situación Escolar Por Alguna Resolución
+        Proveniente De Cualquiera De Las Autoridades Del Instituto Y Haya Acudido
+        Ante El Titular De Su Unidad Académica Sin Obtener Una Resolución Satisfactoria,
+        Podrá Presentar Recurso De Reconsideración Por Escrito Ante La Comisión De
+        Situación Escolar Del Consejo General Consultivo O La Comisión De Asuntos
+        Escolares Del Colegio Académico De Posgrado, Según Corresponda El Caso.
+    - enum: '75'
+      text: 'El Escrito A Través Del Cual Se Interponga El Recurso De Reconsideración
+        Deberá Contener Lo Siguiente:'
+    - enum: '76'
+      text: El Dictamen Que Resuelva El Recurso De Reconsideración Deberá Ser Emitido
+        En Un Plazo No Mayor A Quince Días Hábiles, Contados A Partir De La Fecha
+        De Recepción Del Recurso.
+    - enum: '77'
+      text: 'Además De Lo Previsto En Otros Ordenamientos, A La Comisión De Situación
+        Escolar Del Consejo General Consultivo O A La Comisión De Asuntos Escolares
+        Del Colegio Académico De Posgrado, Según Su Competencia, Le Corresponde Lo
+        Siguiente:'
+    level: ARTICULO
+  enum: Noveno
+  text: Del Recurso De Reconsideración
+level: CAPITULO
